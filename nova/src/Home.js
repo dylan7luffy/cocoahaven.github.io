@@ -19,11 +19,11 @@ const Home = () => {
         <div className="Home">
           
             <Header />
-            <About />
-            <Services />
+         
+          
             
             
-            <Clients />
+  
            
 
         </div>

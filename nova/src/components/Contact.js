@@ -12,7 +12,7 @@ const Contact = () => {
                     <div className="col-md-6">
      
                         <a
-                            href="https://www.linkedin.com/in/payton-rigert/"
+                            href=""
                             target="_blank"
                             rel="noopener noreferrer"
                         >

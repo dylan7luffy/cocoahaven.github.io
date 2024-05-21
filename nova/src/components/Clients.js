@@ -1,6 +1,5 @@
 import React from 'react';
 import './Css/Clients.css';
-import publicHealthImage from '../images/OIP.jpg';
 
 const Clients = () => {
     return (
@@ -18,7 +17,7 @@ const Clients = () => {
             <div class="container">
                 <div class="row d-flex align-items-center">
                     <div class="col-12 col-md-3 mx-auto text-center">
-                        <img class="img-fluid rounded rounded-circle mb-4" loading="lazy" src={publicHealthImage} alt="" />
+                        <img class="img-fluid rounded rounded-circle mb-4" loading="lazy"  alt="" />
                     </div>
                 </div>
             </div>

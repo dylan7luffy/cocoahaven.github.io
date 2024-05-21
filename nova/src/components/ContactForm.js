@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-const FORM_ENDPOINT = "https://public.herotofu.com/v1/3a684de0-db0f-11ed-a90b-63724fe92d96"; // TODO - fill on the later step
+const FORM_ENDPOINT = ""; // TODO - fill on the later step
 
 const ContactForm = () => {
   const [submitted, setSubmitted] = useState(false);

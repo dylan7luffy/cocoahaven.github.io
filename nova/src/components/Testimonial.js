@@ -1,6 +1,5 @@
 import React from 'react';
 import './Css/Testimonial.css';
-import carterImage from '../images/CarterSquare.jpg';
 
 const Testimonial = () => {
     return (

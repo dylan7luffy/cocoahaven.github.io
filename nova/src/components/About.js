@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import './Css/About.css';
 import { Container, Row, Col } from 'react-bootstrap';
 import { MdExpandMore, MdExpandLess } from 'react-icons/md';
-import publicHealthImage from '../images/publicHealth.jpeg';
 
 const About = () => {
     const [selectedBullet, setSelectedBullet] = useState(1);

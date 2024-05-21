@@ -1,8 +1,6 @@
 import React from "react";
 import './Css/Team.css';
 import { Container, Row, Col } from 'react-bootstrap';
-import waterImage from '../images/water.jpg';
-import PaytonImage from '../images/payton.jpg'; 
 import { useEffect } from 'react';
 
 

@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.59022613.css",
-    "main.js": "/static/js/main.8d7e85eb.js",
+    "main.js": "/static/js/main.dc23843f.js",
     "static/js/787.bad531f5.chunk.js": "/static/js/787.bad531f5.chunk.js",
     "static/media/publicHealth.jpeg": "/static/media/publicHealth.63f856c31b9fc383445c.jpeg",
     "static/media/water.jpg": "/static/media/water.a3f7a7dcd48e49a5cb54.jpg",
     "static/media/payton.jpg": "/static/media/payton.205b9bdc01fa9b899ee8.jpg",
-    "static/media/background.jpg": "/static/media/background.88562a5d29a5402dcbfc.jpg",
+    "static/media/background.png": "/static/media/background.fedf616daf622a98982f.png",
     "static/media/CarterSquare.jpg": "/static/media/CarterSquare.63483803ec67597a99f6.jpg",
     "static/media/OIP.jpg": "/static/media/OIP.e42c62040d3a159d91a2.jpg",
     "static/media/linkedin.svg": "/static/media/linkedin.421edafaffa3aab10e8ce3953c033c5d.svg",
     "index.html": "/index.html",
     "main.59022613.css.map": "/static/css/main.59022613.css.map",
-    "main.8d7e85eb.js.map": "/static/js/main.8d7e85eb.js.map",
+    "main.dc23843f.js.map": "/static/js/main.dc23843f.js.map",
     "787.bad531f5.chunk.js.map": "/static/js/787.bad531f5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59022613.css",
-    "static/js/main.8d7e85eb.js"
+    "static/js/main.dc23843f.js"
   ]
 }

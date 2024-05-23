@@ -19,13 +19,7 @@ const Home = () => {
         <div className="Home">
           
             <Header />
-         
-          
-            
-            
-  
-           
-
+            <Services/>
         </div>
     );
 };

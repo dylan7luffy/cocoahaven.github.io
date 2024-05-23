@@ -1,40 +1,7 @@
 .header {
-  background-color: rgba(26, 42, 79, 0.7);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  min-height: 100vh;
-  display: flex;
-  align-items: flex-start;
-  justify-content: center;
+  background-color: #fab18b;
+
 }
 
-.header-content {
-  background-color: rgba(0, 0, 0, 0.5);
-  padding: 2rem;
-  border-radius: 1rem;
-  margin-top: 50%;
-}
 
-.header h1 {
-  font-size: 3rem;
-  margin-bottom: 0.5rem;
-}
 
-.header h2 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
-}
-
-/* Responsive styles */
-@media (max-width: 768px) {
-  .header-content {
-    margin-top: 55%;
-  }
-}
-
-@media (max-width: 576px) {
-  .header-content {
-    margin-top: 60%;
-  }
-}

@@ -11,12 +11,14 @@ import Testimonial from './components/Testimonial';
 import Clients from './components/Clients';
 import ContactForm from './components/ContactForm';
 import { useEffect } from 'react';
+import './components/Css/Header.css';
+
 const Home = () => {
     useEffect(() => {
         window.scrollTo(0, 0);
     }, []);
     return (
-        <div className="Home">
+        <div className="Home" >
           
             <Header />
             <Services/>

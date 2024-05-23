@@ -9,7 +9,7 @@ import six from '../images/6.png';
 
 const Services = () => {
     return (
-        <section id='services' className="services py-5 py-xl-6" style={{ backgroundColor: '#e9ceb0' }}>
+        <section id='services' className="services py-5 py-xl-6" >
             <div className="container mb-5 mb-md-6">
                 <div className="row justify-content-md-center">
                     <div className="col-12 col-md-10 col-lg-8 col-xl-7 col-xxl-6 text-center">

@@ -1,11 +1,12 @@
 import React from 'react';
 import './Css/Services.css';
-import one from '../images/1.png';
-import two from '../images/2.png';
-import three from '../images/3.png';
-import four from '../images/4.png';
-import five from '../images/5.png';
-import six from '../images/6.png';
+import one from '../images/1.svg';
+import two from '../images/2.svg';
+import three from '../images/3.svg';
+import four from '../images/4.svg';
+import five from '../images/5.svg';
+import six from '../images/6.svg';
+
 
 const Services = () => {
     return (
@@ -24,44 +25,38 @@ const Services = () => {
                 <div className="row gy-5 gy-md-6 gx-xl-6">
                     <div className="col-12 col-sm-6 col-lg-4">
                         <div className="text-center">
-                            <img src={one} alt="Step 1" width="500" height="300" className="mb-4" />
-                            <h5 className="m-2"></h5>
-                            <p className="m-0 text-secondary"></p>
+                            <img src={one} alt="Step 1" width="400" height="400" className="mb-4" />                   
+                            <p className=" " style={{color:"#2d1c14", fontSize:"35px", }}>Bean Sourcing</p>
                         </div>
                     </div>
                     <div className="col-12 col-sm-6 col-lg-4">
                         <div className="text-center">
-                            <img src={two} alt="Step 2" width="500" height="300" className="mb-4" />
-                            <h5 className="m-2"></h5>
-                            <p className="m-0 text-secondary"></p>
+                            <img src={two} alt="Step 2" width="400" height="400" className="mb-4" />
+                            <p className=" " style={{color:"#2d1c14", fontSize:"35px", }}>Roasting</p>
                         </div>
                     </div>
                     <div className="col-12 col-sm-6 col-lg-4">
                         <div className="text-center">
-                            <img src={three} alt="Step 3" width="500" height="300" className="mb-4" />
-                            <h5 className="m-2"></h5>
-                            <p className="m-0 text-secondary"></p>
+                            <img src={four} alt="Step 3" width="400" height="400" className="mb-4" />
+                            <p className=" " style={{color:"#2d1c14", fontSize:"35px", }}>Winnowing</p>
                         </div>
                     </div>
                     <div className="col-12 col-sm-6 col-lg-4">
                         <div className="text-center">
-                            <img src={four} alt="Step 4" width="500" height="300" className="mb-4" />
-                            <h5 className="m-2"></h5>
-                            <p className="m-0 text-secondary"></p>
+                            <img src={five} alt="Step 4" width="400" height="400" className="mb-4" />
+                            <p className=" " style={{color:"#2d1c14", fontSize:"35px", }}>Refinement</p>
                         </div>
                     </div>
                     <div className="col-12 col-sm-6 col-lg-4">
                         <div className="text-center">
-                            <img src={five} alt="Step 5" width="500" height="300" className="mb-4" />
-                            <h5 className="m-2"></h5>
-                            <p className="m-0 text-secondary"></p>
+                            <img src={three} alt="Step 5" width="400" height="400" className="mb-4" />
+                            <p className=" " style={{color:"#2d1c14", fontSize:"35px", }}>Tempering</p>
                         </div>
                     </div>
                     <div className="col-12 col-sm-6 col-lg-4">
                         <div className="text-center">
-                            <img src={six} alt="Step 6" width="500" height="300" className="mb-4" />
-                            <h5 className="m-2"></h5>
-                            <p className="m-0 text-secondary"></p>
+                            <img src={six} alt="Step 6" width="400" height="400" className="mb-4" />
+                            <p className=" " style={{color:"#2d1c14", fontSize:"35px", }}>Distribution</p>
                         </div>
                     </div>
                 </div>

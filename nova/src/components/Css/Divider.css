@@ -1,0 +1,8 @@
+.Divider {
+    height: 40px; /* Adjust height as needed */
+    background-image: url('../../images/result.svg'); /* Adjust path as needed */
+    background-repeat: repeat-x; /* Repeat horizontally */
+    margin-top: -100px;
+    color: '#e9ceb0';
+  }
+  

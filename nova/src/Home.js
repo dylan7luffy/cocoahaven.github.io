@@ -12,6 +12,7 @@ import Clients from './components/Clients';
 import ContactForm from './components/ContactForm';
 import { useEffect } from 'react';
 import './components/Css/Header.css';
+import Divider from './components/Divider';
 
 const Home = () => {
     useEffect(() => {
@@ -21,6 +22,7 @@ const Home = () => {
         <div className="Home" >
           
             <Header />
+            <Divider/>
             <Services/>
         </div>
     );

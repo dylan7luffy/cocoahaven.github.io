@@ -2,9 +2,11 @@ body {
   margin: 0;
   font-family: '맑은 고딕';
   font:  '맑은 고딕';
+  background-color: #fab18b;
 }
 
 code {
   font-family: '맑은 고딕';
   font: '맑은 고딕';
+  background-color: #fab18b;
 }

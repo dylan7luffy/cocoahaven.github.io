@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './Home';
 import reportWebVitals from './reportWebVitals';
 import Layout from './components/Layout.js'
-import Team from './components/Team.js'
+import ThankYou from './components/ThankYou.js'
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
@@ -15,7 +15,7 @@ export default function App() {
             <Routes>
                 <Route path="/" element={<Layout />}>
                     <Route index element={<Home />} />
-                    <Route path="team" element={<Team/>} />
+                    <Route path="thankyou" element={<ThankYou/>} />
                     <Route path="*" element="Page Not Found" />
                 </Route>
             </Routes>

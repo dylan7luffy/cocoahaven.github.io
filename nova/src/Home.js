@@ -24,6 +24,7 @@ const Home = () => {
             <Header />
             <Divider/>
             <Services/>
+            <ContactForm />
         </div>
     );
 };

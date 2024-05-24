@@ -7,7 +7,7 @@ const Footer = () => {
     return (
         <>
             <ContactForm />
-            <Contact />
+          
         </>
     );
 };

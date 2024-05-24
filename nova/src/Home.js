@@ -19,7 +19,7 @@ const Home = () => {
         window.scrollTo(0, 0);
     }, []);
     return (
-        <div className="Home" >
+        <div className="Home" id='Home' >
           
             <Header />
             <Divider/>
